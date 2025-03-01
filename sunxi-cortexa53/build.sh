@@ -23,8 +23,13 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-app-ssr-plus"
+#DDNS
+PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
+#UUgame
+PACKAGES="$PACKAGES luci-app-uugamebooster"
+#KMS服务
 PACKAGES="$PACKAGES luci-app-vlmcsd"
-PACKAGES="$PACKAGES luci-app-ddns"
+#网易云音乐
 PACKAGES="$PACKAGES luci-app-unblockmusic"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
